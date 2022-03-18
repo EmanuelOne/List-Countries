@@ -19,3 +19,4 @@ package-lock.json
 design
 *.config.js
 src/input.css
+package.json
